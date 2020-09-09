@@ -1,2 +1,2 @@
 # HackerRank
-Solutions by MDNayaz
+Solutions of C Language by MDNayaz
